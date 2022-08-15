@@ -23,11 +23,15 @@ SRS is currently deployed for Ethereum L1 but can be ported to any other L1 bloc
 
 Users can get started with SRS by interacting with the frontend application deployed at https://starknet-recovery-service.vercel.app/.
 
-Given that this methodology works for any blockchains that uses Patricia merkle trees (such as Solana, Avalanche, Fantom etc.), developers can build on top of our existing smart contracts or extend them to other Layer 1 blockchains via a cross-chain messaging protocol such as LayerZero. The project files for SRS currently include three repos:
+The project files for SRS currently include three repos:
 
 - [`recovery`](https://github.com/StorageProof-Recovery/recovery), which contains the core smart contract logic for consuming storage proofs and handling L1 <> L2 messaging.
 - [`recovery-front-end`](https://github.com/StorageProof-Recovery/recovery-front-end), a frontend application for interacting with the deployed smart contracts (using either Argent or Braavos)
 - [`recovery-web-hooks`](https://github.com/StorageProof-Recovery/recovery-web-hooks), a server for interacting with and consuming data from the Fossil API.
+
+# Additional Note
+
+Given that this methodology works for any blockchains that uses Patricia merkle trees (such as Solana, Avalanche, Fantom etc.), developers can build on top of our existing smart contracts or extend them to other Layer 1 blockchains via a cross-chain messaging protocol such as LayerZero. 
 
 # Special thanks
 
