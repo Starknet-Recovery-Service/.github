@@ -7,6 +7,7 @@
 Unlike social recovery and other off-chain methods for wallet retrieval, SRS runs in an entirely trustless, non-custodial way. This allows users to build more fault tolerant wallet setups, while retaining the strong security guarantees of Ethereum. 
 
 Video presentation + demo: https://youtu.be/G5FvzoQhGv8
+
 Slides: https://app.pitch.com/app/presentation/09ce2e68-01a6-42e2-a195-f5e548aea711/06a878ce-878b-4a1f-9be1-9e125372f4f4/000db933-2625-425b-a1ba-3743a395967f
 
 <img width="2044" alt="image" src="https://user-images.githubusercontent.com/27808560/184609341-70f46a46-4c2c-4bf5-a964-cabab7b59184.png">
