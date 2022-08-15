@@ -1,5 +1,7 @@
 # StarkNet Recovery Service (SRS)
 
+> :warning: SRS is still in development and not ready to be used with live assets. Please proceed with caution.
+
 **StarkNet Recovery Service (SRS)** is a fully trustless wallet recovery service for Ethereum Externally Owned Accounts (EOA - your normal Ethereum address, not smart contract wallet), powered by [storage proofs](https://github.com/OilerNetwork/fossil) on StarkNet. 
 
 Unlike social recovery and other off-chain methods for wallet retrieval, SRS runs in an entirely trustless, non-custodial way. This allows users to build more fault tolerant wallet setups, while retaining the strong security guarantees of Ethereum. 
