@@ -21,7 +21,7 @@ SRS is currently deployed for Ethereum L1 but can be ported to any other L1 bloc
 
 # Instructions
 
-Users can get started with SRS by interacting with the frontend application deployed at https://starknet-recovery-service-interface.vercel.app/.
+Users can get started with SRS by interacting with the frontend application deployed at https://starknet-recovery-service.vercel.app/.
 
 Given that this methodology works for any blockchains that uses Patricia merkle trees, developers can build on top of our existing smart contracts or extend them to other Layer 1 blockchains via a cross-chain messaging protocol such as LayerZero. The project files for SRS currently include three repos:
 
