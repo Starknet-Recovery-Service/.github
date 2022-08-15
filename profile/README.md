@@ -27,4 +27,4 @@ Developers can build on top of our existing smart contracts or extend them to ot
 
 # Special thanks
 
-[Marcello Bardus](https://github.com/marcellobardus) for building [Fossil](https://github.com/OilerNetwork/fossil) and the help with integrating it to StarkNet Recovery Service. 
+[Marcello Bardus](https://github.com/marcellobardus) for building [Fossil](https://github.com/OilerNetwork/fossil) and helping to integrate StarkNet Recovery Service with it. 
