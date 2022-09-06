@@ -1,4 +1,4 @@
-# Switch (prev: Starknet Recovery Service)
+# Switch (ex. Starknet Recovery Service)
 
 > :warning: Switch is still in development and not ready to be used with live assets. Please proceed with caution.
 
