@@ -10,7 +10,7 @@ Video presentation + demo: [Link](https://youtu.be/G5FvzoQhGv8)
 
 Slides: [Link](https://app.pitch.com/app/presentation/09ce2e68-01a6-42e2-a195-f5e548aea711/06a878ce-878b-4a1f-9be1-9e125372f4f4/000db933-2625-425b-a1ba-3743a395967f)
 
-<img width="2044" alt="image" src="https://user-images.githubusercontent.com/27808560/184609341-70f46a46-4c2c-4bf5-a964-cabab7b59184.png">
+![image](https://user-images.githubusercontent.com/27808560/188644772-b4e91247-60ed-4c33-b003-6c763aa893d1.png)
 
 <img width="2041" alt="image" src="https://user-images.githubusercontent.com/27808560/184609428-f512d2b7-1c0a-4840-ab86-fcf4467d0880.png">
 
